@@ -1,16 +1,12 @@
-# untitled1
+# Smaple landing page
 
-A new Flutter project.
+A landing page built with flutter web.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+- Clone the project
+- Run flutter pub get from the project directory.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+This project is a sample laning page for a digital marketing site built
+with flutter web. You can check it out
+[here](https://that-digital-agency.web.app/#/).
